@@ -1,0 +1,9 @@
+#guarantee {
+  background-image: url("images/background.gif");
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding-left: 80px;
+  margin-right: 250px;
+  /*background-image: url("https://media.giphy.com/media/IB9foBA4PVkKA/giphy.gif");
+  background-repeat: repeat;*/
+}
