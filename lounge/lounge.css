@@ -32,6 +32,11 @@ h2 {
   background-repeat: repeat;*/
 }
 
+#elixirs {
+  width: 200px;
+  border: #007e7e thin solid;
+}
+
 @media print {
   body {
     font-family: webdings, fantasy;
