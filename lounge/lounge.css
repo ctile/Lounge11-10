@@ -63,6 +63,22 @@ h2 {
   font-weight: bold;
 }
 
+a:link {
+  color: #007e7e;
+}
+a:visited {
+  color: #333333;
+}
+a.active {
+  color: #f88396;
+}
+a.focus {
+  border: #0d5353 thick solid;
+}
+#elixirs a.hover {
+  color: #0d5353;
+  background-color: #f88396;
+}
 #music {
   border-top: 4px dotted grey;
   border-bottom: 4px dotted grey;
