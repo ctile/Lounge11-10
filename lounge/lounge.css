@@ -36,11 +36,11 @@ h2 {
   width: 200px;
   border: #007e7e thin solid;
   text-align: center;
-  padding: 0 10 10 10;
+  margin-left: 20px;
+  padding: 0px 10px 10px 10px;
   background-image: url(https://raw.githubusercontent.com/bethrobson/Head-First-HTML/master/chapter10/lounge-complete/images/cocktail.gif);
   background-repeat: repeat-x;
-  margin-left: 20px;
-  margin-right: auto;
+  line-height: 1;
 }
 #elixirs h2 {
   color: black;
@@ -48,6 +48,13 @@ h2 {
 
 #elixirs h3 {
   color: #d12c47;
+}
+
+#copyright {
+  font-size: 50%;
+  text-align: center;
+  line-height: normal;
+  margin-top: 30px;
 }
 
 @media print {
